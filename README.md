@@ -5,3 +5,5 @@ Sustentado por:
 https://github.com/Lucasark
 
 https://github.com/Rogerio-Bertoldo
+
+https://github.com/jsimonassi
